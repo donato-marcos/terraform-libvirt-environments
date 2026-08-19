@@ -11,8 +11,8 @@
 
 # Sensitive variable files
 
-**/*.auto.tfvars
-**/*.auto.tfvars.json
+**/secrets.auto.tfvars
+**/secrets.auto.tfvars.json
 
 # Override files
 
